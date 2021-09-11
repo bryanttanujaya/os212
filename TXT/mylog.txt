@@ -10,3 +10,4 @@ ZCZC W00 35 L10 Assignment #00
 ZCZC W00 100 L02 Zoom Meetings
 ZCZC W01 15 L01 SCELE related
 ZCZC W01 100 L02 Zoom Meetings
+ZCZC W01 40 L11 Assignment #01
