@@ -1,4 +1,4 @@
-## WELCOME!
+## Welcome to Operating System 212-1
 
 ## LINKS
 ### | [Log](https://github.com/bryanttanujaya/oS212/blob/master/TXT/mylog.txt) | [Page](https://bryanttanujaya.github.io/oS212/) | [Repository](https://github.com/bryanttanujaya/oS212) |
