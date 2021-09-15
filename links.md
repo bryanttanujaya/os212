@@ -1,3 +1,7 @@
+Layout | Permalink
+------------ | -------------
+Layout | /LINKS/ 
+
 ## IMPORTANT LINKS
 
 * [_Operating System VLSM Link_](https://os.vlsm.org/)                                                                                
