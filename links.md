@@ -1,6 +1,6 @@
-Layout | Permalink
------------- | -------------
-Layout | /LINKS/ 
+---
+permalink: /LINKS/
+---
 
 ## IMPORTANT LINKS
 
