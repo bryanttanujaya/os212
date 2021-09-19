@@ -25,4 +25,14 @@ ZCZC W01 10 L17 Assignment #07
 ZCZC W01 40 L18 Assignment #08
 ZCZC W01 60 L19 Assignment #09
 ZCZC W02 100 L02 Zoom Meetings
-ZCZC W02 45 L11 Assignment $01
+ZCZC W02 45 L11 Assignment #01 Read
+ZCZC W02 40 L12 Assignment #02 Try Demos
+ZCZC W02 280 L13 Assignment #03 Watch Cyber Security Introduction
+ZCZC W02 15 L14 Assignment #04 Generating GnuPG Key Pair
+ZCZC W02 10 L15 Assignment #05 List of all GnuPG Keys
+ZCZC W02 15 L16 Assignment #06 Importing ospubkey.txt
+ZCZC W02 5 L17 Assignment #07 Signing the Operating Systems public key
+ZCZC W02 15 L18 Assignment #08 Exporting my public key
+ZCZC W02 5 L19 Assignment #09 Updating my bookmark Links
+ZCZC W02 15 L20 Assignment #10 Reviewing my peer links
+
