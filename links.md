@@ -13,5 +13,5 @@ permalink: /LINKS/
   This operating system tutorial videos link contain a lot of videos that explain a lot of things in Operating System
 * [Bash Command Cheat Sheet](https://www.educative.io/blog/bash-shell-command-cheat-sheet)                                        
   The site contains a lot of bash command and can make custom commands that guides me to do the script
-* [Cyber Security Introduction Part 1](https://www.youtube.com/watch?v=rcDO8km6R6c)
+* [Cyber Security Introduction Part 1](https://www.youtube.com/watch?v=rcDO8km6R6c)                                                 
   Video that explain the introduction for the cyber security section 
