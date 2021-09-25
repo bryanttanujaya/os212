@@ -22,7 +22,7 @@ permalink: /LINKS/
   A guide in using C as programming language
 
 ## WEEK 3 
-* [File System](https://www.freecodecamp.org/news/file-systems-architecture-explained/)                                             
+* [File System explanation by freecodecamp](https://www.freecodecamp.org/news/file-systems-architecture-explained/)                                             
   This site explains the file systems concept and explained it with some examples
 * [Operating System Concept Slides](https://www.os-book.com/OS10/slide-dir/)                                                      
   It contain some slides that explained about operating system concept
