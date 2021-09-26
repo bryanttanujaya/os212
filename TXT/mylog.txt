@@ -38,3 +38,12 @@ ZCZC W02 15 L20 Assignment #10 Reviewing my peer links
 ZCZC W02 10 L09 Assignment #11 Copying Bash
 ZCZC W02 15 L09 Assignment #12 Updating Log
 ZCZC W02 10 L09 Assignment #13 Generating SHA256SUM and SHA256SUM.asc
+ZCZC W03 100 L02 Zoom Meetings
+ZCZC W03 50 L11 Assignment #01 Reading OSC10 Chapter 13 + 14 + 15
+ZCZC W03 50 L12 Assignment #02 Try Demos for week 3
+ZCZC W03 30 L13 Assignment #03 Try previous midterm problem
+ZCZC W03 30 L14 Assignment #04 Checking bash aliases
+ZCZC W03 25 L15 Assignment #05 Create an extra virtual disk
+ZCZC W03 15 L16 Assignment #06 Updating LINKS
+ZCZC W03 15 L17 Assignment #07 Reviewing my peer link
+ZCZC W03 15 L18 Assignment #08 Updating my log
