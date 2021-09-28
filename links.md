@@ -26,3 +26,10 @@ permalink: /LINKS/
   This site explains the file systems concept and explained it with some examples
 * [Operating System Concept Slides](https://www.os-book.com/OS10/slide-dir/)                                                      
   It contain some slides that explained about operating system concept
+
+## WEEK 4
+* [Linux Libraries in C](https://opensource.com/article/21/2/linux-software-libraries)                                 
+  The site contains explanation for linux libraries and the example of using linux libraries in C                   
+* [Big Endian & Little Endian](https://chortle.ccsu.edu/AssemblyTutorial/Chapter-15/ass15_3.html)                  
+  Explanation about the Big Endian and Little Endian in a fast way
+ 
