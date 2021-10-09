@@ -33,3 +33,10 @@ permalink: /LINKS/
 * [Big Endian & Little Endian](https://chortle.ccsu.edu/AssemblyTutorial/Chapter-15/ass15_3.html)                  
   Explanation about the Big Endian and Little Endian in a fast way
  
+## WEEK 5
+* [OS Virtual Memory explanation](https://www.tutorialspoint.com/operating_system/os_virtual_memory.htm)
+  This site will explain more about the virtual memory explanation
+* [Buddy system algorithm](https://www.geeksforgeeks.org/buddy-system-memory-allocation-technique/)
+  Explanation about buddy system allocator by geeksforgeeks
+* [Slab Allocation algorithm](http://3zanders.co.uk/2018/02/24/the-slab-allocator/)
+  The example and definition of slab allocation
