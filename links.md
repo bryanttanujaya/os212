@@ -34,15 +34,15 @@ permalink: /LINKS/
   Explanation about the Big Endian and Little Endian in a fast way
  
 ## WEEK 5
-* [OS Virtual Memory explanation](https://www.tutorialspoint.com/operating_system/os_virtual_memory.htm)
-  This site will explain more about the virtual memory explanation
-* [Buddy system algorithm](https://www.geeksforgeeks.org/buddy-system-memory-allocation-technique/)
-  Explanation about buddy system allocator by geeksforgeeks
-* [Slab Allocation algorithm](http://3zanders.co.uk/2018/02/24/the-slab-allocator/)
-  The example and definition of slab allocation
+* [OS Virtual Memory explanation](https://www.tutorialspoint.com/operating_system/os_virtual_memory.htm)                 
+  This site will explain more about the virtual memory explanation                                         
+* [Buddy system algorithm](https://www.geeksforgeeks.org/buddy-system-memory-allocation-technique/)                 
+  Explanation about buddy system allocator by geeksforgeeks                                                     
+* [Slab Allocation algorithm](http://3zanders.co.uk/2018/02/24/the-slab-allocator/)                     
+  The example and definition of slab allocation                                                             
 
 ## WEEK 6
-* [Concurrency in OS](https://www.geeksforgeeks.org/concurrency-in-operating-system/#:~:text=Concurrency%20is%20the%20execution%20of,shared%20memory%20or%20message%20passing.)
-  This site contains the explanation of concurrency in the operating system
-* [Process and Threads](https://www.youtube.com/watch?v=OrM7nZcxXZU)
+* [Concurrency in OS](https://www.geeksforgeeks.org/concurrency-in-operating-system/#:~:text=Concurrency%20is%20the%20execution%20of,shared%20memory%20or%20message%20passing.)                                                                       
+  This site contains the explanation of concurrency in the operating system                                                                                       
+* [Process and Threads](https://www.youtube.com/watch?v=OrM7nZcxXZU)                                        
   Video that explain about the main idea of process and threads in operating system
