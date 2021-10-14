@@ -68,4 +68,12 @@ ZCZC W05 5 L16 Assignment #06 Looking for tips
 ZCZC W05 10 L17 Assignment #07 Reviewing peer links
 ZCZC W05 15 L18 Assignment #08 Updating my log 
 ZCZC W05 10 L19 Assignment #09 Submitting W05 Assignment
-
+ZCZC W06 35 L11 Assignment #01 Reading OSC10 Chapter 3 and 4
+ZCZC W06 35 L12 Assignment #02 Try Demos
+ZCZC W06 50 L13 Assignment #03 Try previous MidTerm Problems
+ZCZC W06 15 L14 Assignment #04 Doing Assignment #4
+ZCZC W06 10 L15 Assignment #05 Updating bookmarks link
+ZCZC W06 5 L16 Assignment #06 Looking for tips
+ZCZC W06 8 L17 Assignment #07 Reviewing peer links
+ZCZC W06 15 L18 Assignment #08 Updating my log 
+ZCZC W06 15 L19 Assignment #09 Submitting W06 Assignment
