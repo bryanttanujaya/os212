@@ -46,3 +46,9 @@ permalink: /LINKS/
   This site contains the explanation of concurrency in the operating system                                                                                       
 * [Process and Threads](https://www.youtube.com/watch?v=OrM7nZcxXZU)                                        
   Video that explain about the main idea of process and threads in operating system
+  
+## WEEK 7
+* [Introduction of Synchronization](https://www.geeksforgeeks.org/introduction-of-process-synchronization/)                                                                     
+  Produce an explanation about the Synchronization in Operating System
+* [Linux Syntax](https://www.javatpoint.com/linux-commands)                                                                                                                 
+  Shows some syntax that exist and used in linux
