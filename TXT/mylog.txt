@@ -77,3 +77,13 @@ ZCZC W06 5 L16 Assignment #06 Looking for tips
 ZCZC W06 8 L17 Assignment #07 Reviewing peer links
 ZCZC W06 15 L18 Assignment #08 Updating my log 
 ZCZC W06 15 L19 Assignment #09 Submitting W06 Assignment
+ZCZC W07 100 L02 Zoom Meetings
+ZCZC W07 50 L11 Assignment #01 Reading OSC10 Chapter 6,7,8 
+ZCZC W07 40 L12 Assignment #02 Try Demos
+ZCZC W07 35 L13 Assignment #03 Trying previous midterm problem
+ZCZC W07 50 L14 Assignment #04 Fetch n Extract WEEK 7 file , Run Script in the 000-README.txt, Observe memory work, Reading and studying file 001-how-to-get-file-WEEK07-REPORT2.txt
+ZCZC W07 20 L15 Assignment #05 Updating bookmark links
+ZCZC W07 10 L16 Assignment #06 Looking for some tips
+ZCZC W07 20 L17 Assignment #07 Reviewing my peer links
+ZCZC W07 15 L18 Assignment #08 Updating my log
+ZCZC W07 15 L19 Assignment #09 Submit my week 7 Assignment
