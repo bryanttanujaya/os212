@@ -87,3 +87,13 @@ ZCZC W07 10 L16 Assignment #06 Looking for some tips
 ZCZC W07 20 L17 Assignment #07 Reviewing my peer links
 ZCZC W07 15 L18 Assignment #08 Updating my log
 ZCZC W07 15 L19 Assignment #09 Submit my week 7 Assignment
+ZCZC W08 30 L11 Assignment #01 Reading OSC10 Chapter 5
+ZCZC W08 35 L12 Assignment #02 Try Demos
+ZCZC W08 35 L13 Assignment #03 Trying previous FinalTerm Problem
+ZCZC W08 60 L14 Assignment #04 Doing Linux Chap 1 - 4
+ZCZC W08 45 L15 Assignment #05 Doing Linux Chap 5
+ZCZC W08 15 L16 Assignment #06 Updating bookmark links
+ZCZC W08 10 L17 Assignment #07 Looking for some new tips
+ZCZC W08 15 L18 Assignment #08 Review my peer links
+ZCZC W08 10 L19 Assignment #09 Update log
+ZCZC W08 10 L20 Assignment #10 Submitting Week 8 Assignment
