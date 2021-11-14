@@ -54,7 +54,7 @@ permalink: /LINKS/
   Shows some syntax that exist and used in linux
   
 ## WEEK 8
-* [Linux From Scratch](https://www.linuxfromscratch.org/lfs/view/11.0/)
+* [Linux From Scratch](https://www.linuxfromscratch.org/lfs/view/11.0/)                                                                                                       
   Linux from scratch website
-* [Youtube Playlist of Linux From Scratch](https://www.youtube.com/playlist?list=PLyc5xVO2uDsDK5_zewRXYOZA0cyjwcboE)
+* [Youtube Playlist of Linux From Scratch](https://www.youtube.com/playlist?list=PLyc5xVO2uDsDK5_zewRXYOZA0cyjwcboE)                                                            
   Contain videos of How to compile linux from scratch
