@@ -58,3 +58,7 @@ permalink: /LINKS/
   Linux from scratch website
 * [Youtube Playlist of Linux From Scratch](https://www.youtube.com/playlist?list=PLyc5xVO2uDsDK5_zewRXYOZA0cyjwcboE)                                                            
   Contain videos of How to compile linux from scratch
+
+## WEEK 9
+* [Explanation about OS Boot Loader](https://www.techopedia.com/definition/3324/boot-loader#:~:text=A%20boot%20loader%20is%20a,boot%20manager%20or%20bootstrap%20loader.)
+  Explanation about what is a boot loader
